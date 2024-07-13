@@ -1,0 +1,95 @@
+html {
+    height: 100%;
+}
+
+
+body {
+    background-color: rgb(255, 255, 255);
+    background-image: url(images/spacex.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+
+header {
+    background-color: white;
+    width: 1024px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(45, 61, 73, 0.144);
+    height: 40px;
+    width: 1024px;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 5px;
+}
+
+main {
+    
+    height: 400px;
+    text-align: center;
+    padding-left: 230px;
+    padding-right: 230px;
+    padding-bottom: 230px;
+    padding-top: 100px;
+    
+}
+
+footer {
+    background-color: rgba(20, 22, 31, 0.781);
+    height: 100px;
+    width: 1024px;
+    padding-top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 55px;
+    color: white;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+
+p {
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+
+main a {
+    color: rgb(91, 161, 241);  
+    text-decoration: underline; 
+    font-size: larger;
+} 
+
+nav a {
+    height:35px;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+y {
+    color: rgb(59, 93, 133);
+    padding-left: 300px;
+    padding-right: 230px;
+    
+}
