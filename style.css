@@ -5,7 +5,7 @@ html {
 
 body {
     background-color: rgb(255, 255, 255);
-    background-image: url(images/spacex.jpg);
+    background-image: url(./spacex.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
